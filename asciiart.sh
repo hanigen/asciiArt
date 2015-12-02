@@ -244,7 +244,7 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
-etu6 3
+etu6 2
 
 etu14 3
 etu1 3
