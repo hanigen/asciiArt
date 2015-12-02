@@ -134,8 +134,18 @@ echo "                                                                          
 	clear
 }
 function etu14 {
-	echo "travail de"
+	echo "travail de Yohann"
 	echo "mon asci art"
+	echo " ##  ############# "
+	echo "##  ##           ##"
+	echo "#  ##  #########  #"
+	echo "# #   ##       ## #"
+	echo "# #  ##    ##   # #"
+	echo "# ##  ######   ## #"
+	echo "#  ##         ##  #"
+ 	echo "##  ###########  ##"
+	echo " ##             ## "
+	echo "  ###############  "
 	sleep $1
 	clear
 }
@@ -266,7 +276,25 @@ function prof {
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
 etu8 1
+etu14 3
+etu1 3
+etu2 3
+etu3 3
+etu5 3
+etu6 3
+etu8 3
+etu9 3
+etu10 3
+etu11 3
 etu12 1
 etu11 1
 etu13 3
+etu14 3
+etu15 3
+etu18 3
+etu19 3
+etu20 3
+etu21 3
+etu26 3
+etu27 3
 
