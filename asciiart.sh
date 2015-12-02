@@ -30,8 +30,9 @@ function etu5 {
 	clear
 }
 function etu6 {
-	echo "travail de"
+	echo "travail de Guillaume Lapointe"
 	echo "mon asci art"
+	echo "  (╯°□°）╯︵ ┻━┻"
 	sleep $1
 	clear
 }
@@ -209,4 +210,4 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
-
+etu6 5
