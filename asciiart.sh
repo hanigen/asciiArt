@@ -112,11 +112,6 @@ function etu11 {
 }
 function etu12 {
 	echo "travail de Joey"
-	echo "  .-"""-."
-	echo " /* * * *\"
-	echo ":_.-:`:-._;"
-	echo "    (_)"
-	echo " \|/(_)\|/"
 	sleep $1
 	clear
 }
